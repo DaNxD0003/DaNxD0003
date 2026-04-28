@@ -89,10 +89,16 @@ Currently, I am improving my skills in web development and APIs, focusing on bui
 </p>
 
 <h2>🚀 Featured Projects</h2>
+
 <p>
   🔹 Multi-branch database connection system (JSON-based)<br>
   🔹 Sales data consolidation (MySQL + C#)<br>
   🔹 Inventory control with dynamic stock calculation<br>
+  🔹 XML generation from Excel data (automation of structured data)<br>
+  🔹 Integration of new branches into existing system ecosystem<br>
+  🔹 Automated backup system using scheduled tasks<br>
+  🔹 Development of billing system (CFDI - Mexico)<br>
+  🔹 Employee attendance and control system<br>
 </p>
 <h2>🌐 Languages</h2>
 <p>
