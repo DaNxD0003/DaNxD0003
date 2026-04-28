@@ -19,6 +19,10 @@ I enjoy solving real-world problems through automation and efficient data manage
 <p>
 Currently, I am improving my skills in web development and APIs, focusing on building scalable and practical solutions.
 </p>
+<p>📫 Contacto: 
+  <a href="mailto:danxd0003@gmail.com">danxd0003@gmail.com</a>
+</p>
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <table align="center">
